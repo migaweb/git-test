@@ -3,3 +3,5 @@ Changed content in
 feature branch
 
 stashing stashing
+
+this is a new line.
