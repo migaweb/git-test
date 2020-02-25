@@ -1,7 +1,11 @@
 Changed content in 
 
+changed from master.
+
 feature branch
 
 stashing stashing
 
-this is a new line.
+
+chaning this line from master..
+
