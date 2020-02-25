@@ -6,6 +6,4 @@ feature branch
 
 stashing stashing
 
-
-chaning this line from master..
-
+change from rebaser.
