@@ -3,3 +3,5 @@ Changed content in
 feature branch
 
 stashing stashing
+
+change from rebaser.
